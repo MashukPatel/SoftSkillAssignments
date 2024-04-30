@@ -1,0 +1,10 @@
+Module 2) Technology
+
+(1) Discuss plans for upgrading your technology skills.
+Ans -> I ofently read blogs like javatpoint and geeksforgeeks and if I found something new then immediately I reserch on it a lot more and then learn its theory. After that I implement it by performing practical of that. This is how I keep learning new things regarding my technology.
+
+(2) Mention any relevant courses, certifications, or resources you are pursuing.
+Ans -> After completing my bachelor in CE I join Tops Technology to pursue training in java and there I learn core java, advanced java, Hibernate, SpringBoot and MVC Framework.
+
+(3) Share your approach to continuous learning and professional development.
+Ans -> I allocate specific time each day for different learning activities, such as dedicating 2 hours to theory study, solving 7 programming problems on LeetCode, and reading blogs to stay updated with new technologies.
