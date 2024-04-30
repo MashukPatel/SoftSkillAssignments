@@ -1,0 +1,13 @@
+Module 1) Personal Information
+
+(1) Briefly introduce yourself: name, educational background, and current status (student or professional).
+
+Ans -> Hello, My name is Mashuk Patel and I am from himmatnagar. Currently, I am pursuing training in java at tops technology where I learn about core java, advanced java, MVC Framework, Spring and Spring Boot and Hibernate. Before I join Tops I completed my Bachelor in Computer Engineering From Government Engineering College, Modasa.
+
+(2) Mention key personality traits, such as your creativity, analytical skills, or passion for problem-solving.
+
+ Ans ->I am passionate java developer and I am honing my skills in core java, advanced java, MVC, Hibernate and SpringBoot Famework.
+
+(3) Explain your interest in technology and why you chose this career path.
+
+Ans -> When I was in 9 standard a subject name computer study introduce and after studying that subject my interest in that field has been increased and so I decided to do my Bachelor in computer enginnering and make my professional career in computer field. 
