@@ -1,0 +1,10 @@
+Module 3) Projects
+
+(1) Describe a key project you have worked on or are currently working on.
+Ans -> Till now I have work on 2 solo projects. First one I prepared during my bachelor last semester, a desktop game application :- Card Dhamaal. In this I used technologies like core java, Java Swing , JavaFX and MySQL database. It is 2 player cricket card game where players can play cricket using cricketers cards. Talking about 2 project, I built it during my training in java at tops Technology, E-Commerce website for online shopping and I used technologies like core java, advanced java, MVC Framework and MySQL database. In this user can buy products online and can also pay online. Additionally, users can track their orders. Admin can add and update products details and manage customers orders.
+
+(2) Explain the technologies used, the scope of the project, and its objectives.
+Ans -> In both my projects I use technologies like core java, advanced java, Java Swing, JavaFX, MVC Framework and MySQL database. After completing this projects I have learn about new syntax, experience on how to handle big projects and its database.
+
+(3) Highlight the challenges faced and how you addressed them, showcasing your problem solving skills. 
+Ans -> While preparing E-Commerce website for online shopping I get stuck on how to add online payment options in website but I researched on website like javatpoint and also take help from youtube and finally I get hint that I can use razaroPay java library to add online payment option in my website and this is how I overcome from challenge.  
